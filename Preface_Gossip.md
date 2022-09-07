@@ -1,6 +1,6 @@
 # 数学建模的故事  The Story of Mathematics Modeling
 
-  而如今，虽然那个人暂时的，或者永远的向我们说了“Sayounara”，但是这是属于我们的数学建模的故事呀
+ 这是属于我们的数学建模的故事
   
   的确，我碰到了令人讨厌的free-loader，但是对走向最终的国赛依然心存感激。
   记得第一次在数学建模课上写出Lingo代码的时候“I got a Hoop!”
